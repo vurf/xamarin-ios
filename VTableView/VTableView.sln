@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VTableView", "VTableView\VTableView.csproj", "{A21E748C-DE67-4AE8-B813-D814762454DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A21E748C-DE67-4AE8-B813-D814762454DE}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{A21E748C-DE67-4AE8-B813-D814762454DE}.Debug|iPhone.Build.0 = Debug|iPhone
+		{A21E748C-DE67-4AE8-B813-D814762454DE}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{A21E748C-DE67-4AE8-B813-D814762454DE}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{A21E748C-DE67-4AE8-B813-D814762454DE}.Release|iPhone.ActiveCfg = Release|iPhone
+		{A21E748C-DE67-4AE8-B813-D814762454DE}.Release|iPhone.Build.0 = Release|iPhone
+		{A21E748C-DE67-4AE8-B813-D814762454DE}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{A21E748C-DE67-4AE8-B813-D814762454DE}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+EndGlobal
