@@ -1,1 +1,19 @@
-﻿<Properties StartupItem="VTableView/VTableView.csproj" GitUserInfo="UsingGIT" />
+﻿<Properties StartupItem="VTableView/VTableView.csproj" GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone5.8.3" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="VTableView/ViewController.cs" Line="16" Column="24" />
+      <File FileName="VTableView/AppDelegate.cs" Line="25" Column="53" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../Desktop/2bedone/ToDo/ToDo.iOS/Pages/Tasks/AddTaskVC.cs" line="148" offsetX="1099" offsetY="2097" expression="Task.Reminder" liveUpdate="False" />
+    <Watch file="../../Desktop/2bedone/ToDo/ToDo.iOS/Pages/Tasks/AddTaskVC.cs" line="148" offsetX="1099" offsetY="2122" expression="Task.Reminder.Kind" liveUpdate="False" />
+    <Watch file="../../Desktop/2bedone/ToDo/ToDo.iOS/Pages/Tasks/AddTaskVC.cs" line="617" offsetX="899" offsetY="5395" expression="item.CurrentId" liveUpdate="False" />
+    <Watch file="../../Desktop/2bedone/ToDo/ToDo.iOS/Pages/Tasks/AddTaskVC.cs" line="617" offsetX="899" offsetY="5419" expression="item.Position" liveUpdate="False" />
+    <Watch file="../../Desktop/2bedone/ToDo/ToDo.iOS/Pages/Tasks/AddTaskVC.cs" line="617" offsetX="899" offsetY="5444" expression="item.Description" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>
