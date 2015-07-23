@@ -22,7 +22,7 @@ namespace VTableView
 
 			// If you have defined a root view controller, set it here:
 			// Window.RootViewController = myViewController;
-
+			Window.RootViewController = new ViewController();
 			// make the window visible
 			Window.MakeKeyAndVisible ();
 
